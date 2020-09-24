@@ -1,0 +1,9 @@
+"function": {
+  "prefix": "f()",
+  "body": [
+    "function (){",
+    "",
+    "}"
+  ],
+  "description": "function"
+}
